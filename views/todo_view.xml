@@ -8,7 +8,9 @@
 				<header>
 					<!-- Buttons Go Her -->
 					<button name="do_toggle_done" type="object" string="Toggle Done" class="oe_highlight" />
-					<button name="do_clear_done" type="object" string="Clear All Done" />
+					<button name="do_clear_done" type="object" string="Clear All Done" class="oe_highlight btn-danger"/>
+
+					<button name="do_toggle_active" type="object" string="Toggle Active" class="oe_highlight btn-warning"/>
 				</header>
 				<sheet>
 					<group name="group_top">
