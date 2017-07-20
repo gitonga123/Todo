@@ -26,7 +26,7 @@
     # always loaded
     'data': [
         # 'security/ir.model.access.csv',
-        # 'views/.xml', 
+        'views/todo_menu.xml', 
         # 'views/.xml',
     ],
     # only loaded in demonstration mode
