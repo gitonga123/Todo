@@ -1,7 +1,3 @@
 id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-<<<<<<< HEAD
-access_todo_app_todo_app,todo_app.todo_app,model_todo_app_todo_app,,1,0,0,0
-=======
 
-access_todo_task_group_user,todo.task.user,model_todo_task,base.group_user,1,1,1,1
->>>>>>> c7efeb3aa008d20d82f33b8f02a31a9ab9391f84
+access_todo_app_todo_app,todo_app.todo_app,model_todo_app_todo_app,,1,0,0,0
