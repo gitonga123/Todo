@@ -27,7 +27,7 @@
     'data': [
         # 'security/ir.model.access.csv',
         'views/todo_menu.xml', 
-        # 'views/.xml',
+        'views/todo_view.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
